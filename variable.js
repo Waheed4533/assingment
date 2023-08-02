@@ -10,8 +10,8 @@
 // let name1=`    Raja Waheed     `
 // console.log(name1)
 // console.log(name1.trim())
-// let addition=5+3;
-// console.log(addition);
+var addition = 5 + 3; // leting variable to 2 numbers
+console.log(addition); // printing result of additon
 // let multiplication=2*4;
 // console.log(multiplication);
 // let subtraction=16-8;
@@ -22,5 +22,5 @@
 // console.log(16-8);
 // console.log(4*2);
 // console.log(16/2);
-var favorite_number = 5;
-console.log("My favorite number is ".concat(favorite_number));
+// let favorite_number= 5;
+// console.log(`My favorite number is ${favorite_number}`);
