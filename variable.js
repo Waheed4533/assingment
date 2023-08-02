@@ -7,6 +7,14 @@
 // let famous_person="Albert Einstein"
 // let message="A person who never made a mistake never tried anything new."
 // console.log(`${famous_person}:"${message}"`)
-var name1 = "    Raja Waheed     ";
-console.log(name1);
-console.log(name1.trim());
+// let name1=`    Raja Waheed     `
+// console.log(name1)
+// console.log(name1.trim())
+var addition = 5 + 3;
+console.log(addition);
+var multiplication = 2 * 4;
+console.log(multiplication);
+var subtraction = 16 - 8;
+console.log(subtraction);
+var division = 16 / 2;
+console.log(division);
