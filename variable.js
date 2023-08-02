@@ -32,7 +32,11 @@
 // console.log(`hello g ${friends[0]}`)
 // console.log(`hello g ${friends[1]}`)
 // console.log(`hello g ${friends[2]}`)
-var favorite_transport = ["Bike", "Car", "bus"];
-console.log("I like to travel on ".concat(favorite_transport[0]));
-console.log("I like to travel on ".concat(favorite_transport[1]));
-console.log("I like to travel on ".concat(favorite_transport[2]));
+// let favorite_transport=["Bike","Car","bus"];
+// console.log(`I like to travel on ${favorite_transport[0]}`)
+// console.log(`I like to travel on ${favorite_transport[1]}`)
+// console.log(`I like to travel on ${favorite_transport[2]}`)
+var Guest = ["Usman", "yaseen", "Qazi"];
+console.log("Aoa kia hal ha aj raat dinner meri trf ha ".concat(Guest[0]));
+console.log("Aoa kia hal ha aj raat dinner meri trf ha ".concat(Guest[1]));
+console.log("Aoa kia hal ha aj raat dinner meri trf ha ".concat(Guest[2]));
