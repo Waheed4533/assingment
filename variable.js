@@ -40,6 +40,17 @@ var Guest = ["Usman", "yaseen", "Qazi"];
 // console.log(`Aoa kia hal ha aj raat dinner meri trf ha ${Guest[0]}`)
 // console.log(`Aoa kia hal ha aj raat dinner meri trf ha ${Guest[1]}`)
 // console.log(`Aoa kia hal ha aj raat dinner meri trf ha ${Guest[2]}`)
-console.log("G to ".concat(Guest[0], " ap aj na ayn ma kahi ja raha"));
-console.log("ap aa skty hayn ".concat(Guest[1]));
-console.log("ap aa skty hayn ".concat(Guest[2]));
+// console.log(`G to ${Guest[0]} ap aj na ayn ma kahi ja raha`)
+// console.log(`ap aa skty hayn ${Guest[1]}`)
+// console.log(`ap aa skty hayn ${Guest[2]}`)
+// console.log(`I found a bigger table space so i am deciding to invite 3 more guests ${Guest[1]},${Guest[2]}`)
+Guest.shift();
+console.log(Guest);
+Guest.unshift("sultan");
+Guest.splice(2, 0, "usama");
+console.log(Guest);
+Guest.push("arsal");
+console.log(Guest);
+console.log("I found a big table so you Mr. ".concat(Guest[0], " are invited to dinner"));
+console.log("I found a big table so you Mr. ".concat(Guest[2], " are invited to dinner"));
+console.log("I found a big table so you Mr. ".concat(Guest[4], " are invited to dinner"));
