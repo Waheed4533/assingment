@@ -37,6 +37,9 @@
 // console.log(`I like to travel on ${favorite_transport[1]}`)
 // console.log(`I like to travel on ${favorite_transport[2]}`)
 var Guest = ["Usman", "yaseen", "Qazi"];
-console.log("Aoa kia hal ha aj raat dinner meri trf ha ".concat(Guest[0]));
-console.log("Aoa kia hal ha aj raat dinner meri trf ha ".concat(Guest[1]));
-console.log("Aoa kia hal ha aj raat dinner meri trf ha ".concat(Guest[2]));
+// console.log(`Aoa kia hal ha aj raat dinner meri trf ha ${Guest[0]}`)
+// console.log(`Aoa kia hal ha aj raat dinner meri trf ha ${Guest[1]}`)
+// console.log(`Aoa kia hal ha aj raat dinner meri trf ha ${Guest[2]}`)
+console.log("G to ".concat(Guest[0], " ap aj na ayn ma kahi ja raha"));
+console.log("ap aa skty hayn ".concat(Guest[1]));
+console.log("ap aa skty hayn ".concat(Guest[2]));
