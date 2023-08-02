@@ -10,11 +10,15 @@
 // let name1=`    Raja Waheed     `
 // console.log(name1)
 // console.log(name1.trim())
-var addition = 5 + 3;
-console.log(addition);
-var multiplication = 2 * 4;
-console.log(multiplication);
-var subtraction = 16 - 8;
-console.log(subtraction);
-var division = 16 / 2;
-console.log(division);
+// let addition=5+3;
+// console.log(addition);
+// let multiplication=2*4;
+// console.log(multiplication);
+// let subtraction=16-8;
+// console.log(subtraction);
+// let division=16/2;
+// console.log(division)
+console.log(5 + 3);
+console.log(16 - 8);
+console.log(4 * 2);
+console.log(16 / 2);
