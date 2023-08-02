@@ -24,7 +24,11 @@
 // console.log(16/2);
 // let favorite_number= 5;
 // console.log(`My favorite number is ${favorite_number}`);
+// let friends=["usama","sultan","sarmad"]
+// console.log(friends[0])
+// console.log(friends[1])
+// console.log(friends[2])
 var friends = ["usama", "sultan", "sarmad"];
-console.log(friends[0]);
-console.log(friends[1]);
-console.log(friends[2]);
+console.log("hello g ".concat(friends[0]));
+console.log("hello g ".concat(friends[1]));
+console.log("hello g ".concat(friends[2]));
