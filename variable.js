@@ -10,8 +10,8 @@
 // let name1=`    Raja Waheed     `
 // console.log(name1)
 // console.log(name1.trim())
-var addition = 5 + 3; // leting variable to 2 numbers
-console.log(addition); // printing result of additon
+// let addition=5+3;// leting variable to 2 numbers
+// console.log(addition);// printing result of additon
 // let multiplication=2*4;
 // console.log(multiplication);
 // let subtraction=16-8;
@@ -24,3 +24,7 @@ console.log(addition); // printing result of additon
 // console.log(16/2);
 // let favorite_number= 5;
 // console.log(`My favorite number is ${favorite_number}`);
+var friends = ["usama", "sultan", "sarmad"];
+console.log(friends[0]);
+console.log(friends[1]);
+console.log(friends[2]);
